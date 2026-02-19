@@ -8,7 +8,7 @@
 
 ## Compétences
 
-Python | Php | Sql | Golang | Html | Css | JavaScript
+## Python | Php | Sql | Golang | Html | Css | JavaScript
 
 
 
